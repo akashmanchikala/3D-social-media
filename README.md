@@ -1,1 +1,1 @@
-# 3D-social-media
+# social-media
